@@ -5,7 +5,7 @@
 miniproject_2/.idea/
 miniproject_1/.idea/
 miniproject_0/.idea/
-
+*/.idea/
 
 # Log file
 *.log
